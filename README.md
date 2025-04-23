@@ -13,4 +13,19 @@ This project demonstrates an end-to-end data workflow involving:
 
 ## 📂 Project Structure
 
-``` aviation-financial-etl-insights-viz/ │ ├── data/ │ ├── raw/ # Original raw data files │ └── processed/ # Cleaned and transformed data │ ├── notebooks/ # Jupyter Notebooks for EDA and ETL │ ├── scripts/ # Python scripts for ETL and analysis │ ├── outputs/ # Reports, graphs, and final insights │ └── README.md # This document ```
+```
+aviation-financial-etl-insights-viz/
+│
+├── data/
+│   ├── raw/               # Original raw data files
+│   └── processed/         # Cleaned and transformed data
+│
+├── notebooks/             # Jupyter Notebooks for EDA and ETL
+│
+├── scripts/               # Python scripts for ETL and analysis
+│
+├── outputs/               # Reports, graphs, and final insights
+│
+└── README.md              # This document
+```
+
