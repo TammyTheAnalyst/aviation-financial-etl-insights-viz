@@ -46,7 +46,7 @@ aviation-financial-etl-insights-viz/
 |:--------------------------------------|:-------------|
 | Install Anaconda and set up JupyterLab| ✅ Done        |
 | Set up GitHub Repo & Kanban Board     | ✅ Done        |
-| Create folder structure               | 🔜 To Do       |
+| Create folder structure               | ✅ Done        |
 | Load raw CSV data into Notebook       | 🔜 To Do       |
 | Write Python ETL script               | 🔜 To Do       |
 | Save processed data                   | 🔜 To Do       |
@@ -54,6 +54,7 @@ aviation-financial-etl-insights-viz/
 | Visualize data with Power BI/Matplotlib| 🔜 To Do      |
 | Document everything in README         | 🔄 In Progress |
 | Upload code, data, and screenshots    | 🔜 To Do       |
+
 
 ---
 
