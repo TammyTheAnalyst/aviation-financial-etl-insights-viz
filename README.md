@@ -59,7 +59,7 @@ aviation-financial-etl-insights-viz/
 ---
 
 ## 📸 Screenshots
-_(Add screenshots of your Kanban board, Jupyter notebooks, and visualizations here)_
+![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4645).png)
 
 ---
 
