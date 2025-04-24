@@ -42,18 +42,27 @@ aviation-financial-etl-insights-viz/
 
 ## 📈 Project Workflow
 
-| Task                                  | Status       |
-|:--------------------------------------|:-------------|
-| Install Anaconda and set up JupyterLab| ✅ Done        |
-| Set up GitHub Repo & Kanban Board     | ✅ Done        |
-| Create folder structure               | ✅ Done        |
-| Load raw CSV data into Notebook       | 🔜 To Do       |
-| Write Python ETL script               | 🔜 To Do       |
-| Save processed data                   | 🔜 To Do       |
-| Generate insights                     | 🔜 To Do       |
-| Visualize data with Power BI/Matplotlib| 🔜 To Do      |
-| Document everything in README         | 🔄 In Progress |
-| Upload code, data, and screenshots    | 🔜 To Do       |
+### 📊 Project Status
+
+| Task                                                               | Status         |
+|--------------------------------------------------------------------|----------------|
+| Install Anaconda and set up JupyterLab                             | ✅ Done         |
+| Set up local environment for ETL pipeline development (Anaconda, JupyterLab) | ✅ Done         |
+| Troubleshot file path errors and correct relative paths for data ingestion | ✅ Done         |
+| Set up GitHub Repo & Kanban Board                                  | ✅ Done         |
+| Create folder structure                                            | ✅ Done         |
+| Unzipped, organized, and validated raw financial data for ETL processing | ✅ Done         |
+| Load raw CSV data into Notebook                                    | ✅ Done         |
+| Write Python ETL script                                            | 🔜 To Do        |
+| Explore and clean raw financial data in notebook                   | 🔜 To Do        |
+| Design basic ETL pipeline steps                                    | 🔜 To Do        |
+| Save cleaned data to processed folder                              | 🔜 To Do        |
+| Draft KPIs for financial insights                                  | 🔜 To Do        |
+| Generate insights                                                  | 🔜 To Do        |
+| Visualize data with Power BI/Matplotlib                            | 🔜 To Do        |
+| Document everything in README                                      | 🔄 In Progress  |
+| Upload code, data, and screenshots                                 | 🔜 To Do        |
+
 
 
 ---
