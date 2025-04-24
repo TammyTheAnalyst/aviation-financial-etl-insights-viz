@@ -68,7 +68,12 @@ aviation-financial-etl-insights-viz/
 ---
 
 ## 📸 Screenshots
+
+### 📌 Project Board Progress
 ![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4645).png)
+
+### 📌 Data Preview
+![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4644).png)
 
 ---
 
