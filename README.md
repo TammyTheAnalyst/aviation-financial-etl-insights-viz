@@ -27,7 +27,7 @@ This project demonstrates an end-to-end data workflow involving:
 
 ## 🛠️ Skills Demonstrated
 
-| Skills Demonstrated                                         
+| Skills Demonstrated                      | Skills Demonstrated                       | Skills Demonstrated                         |
 |:-----------------------------------------|:-------------------------------------------|:---------------------------------------------|
 | ETL process management                   | Data validation (raw file checks)          | Troubleshooting file path errors            |
 | DataOps practices for local workflows    | Unzipping, organizing, and validating data | Project management using GitHub Projects    |
