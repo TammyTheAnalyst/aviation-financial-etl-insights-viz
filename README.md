@@ -27,17 +27,15 @@ This project demonstrates an end-to-end data workflow involving:
 
 ## 🛠️ Skills Demonstrated
 
-| Skills Demonstrated                         | Skills Demonstrated                         |
-|:--------------------------------------------|:--------------------------------------------|
-| ETL process management                      | Troubleshooting file path errors            |
-| Data validation (raw file checks)           | DataOps practices for local workflows       |
-| Unzipping, organizing, and validating data  | Project management using GitHub Projects    |
-| Programming in Python                       | Financial data management                   |
-| Attention to detail in file structure       | Aviation-related data management            |
-| Data reconciliation checks (planned)        | Data cleaning and preprocessing (planned)   |
-| Data quality management (planned)           | SQL querying and analysis (planned)         |
-| Analytics and reporting (planned)           | Data visualization with Power BI (planned)  |
-| PMP-style project planning and check-ins    | Communication via README and documentation  |
+| Skills Demonstrated                                         
+|:-----------------------------------------|:-------------------------------------------|:---------------------------------------------|
+| ETL process management                   | Data validation (raw file checks)          | Troubleshooting file path errors            |
+| DataOps practices for local workflows    | Unzipping, organizing, and validating data | Project management using GitHub Projects    |
+| Programming in Python                    | Financial data management                  | Aviation-related data management            |
+| Attention to detail in file structure    | Data reconciliation checks (planned)       | Data cleaning and preprocessing (planned)   |
+| Data quality management (planned)        | SQL querying and analysis (planned)        | Data visualization with Power BI (planned)  |
+| Analytics and reporting (planned)        | Data orchestration with Apache Airflow (planned) | Communication via README and documentation |
+| PMP-style project planning and check-ins | Quality control processes (planned)        | Data governance frameworks (planned)        |
 
 
 ## 📂 Project Structure
