@@ -9,7 +9,9 @@ This project demonstrates an end-to-end data workflow involving:
 - Creating visualizations using Power BI (or Matplotlib)
 - Managing workflow via GitHub Projects for clear task tracking
 
+
 ---
+
 
 ## 📦 Tools & Technologies
 
@@ -22,6 +24,7 @@ This project demonstrates an end-to-end data workflow involving:
 - **GitHub Projects (Kanban board)**
 - **SQL** *(planned)*
 - **Apache Airflow** *(planned stretch goal for ETL orchestration demo)*
+
 
 ---
 
@@ -37,6 +40,8 @@ This project demonstrates an end-to-end data workflow involving:
 | Data quality management (planned)        | SQL querying and analysis (planned)        | Data visualization with Power BI (planned)  |
 | Analytics and reporting (planned)        | Data orchestration with Apache Airflow (planned) | Communication via README and documentation |
 | PMP-style project planning and check-ins | Quality control processes (planned)        | Data governance frameworks (planned)        |
+
+---
 
 
 
@@ -57,6 +62,7 @@ aviation-financial-etl-insights-viz/
 │
 └── README.md              # This document
 ```
+
 
 ---
 
