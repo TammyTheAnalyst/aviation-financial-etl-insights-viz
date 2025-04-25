@@ -11,6 +11,35 @@ This project demonstrates an end-to-end data workflow involving:
 
 ---
 
+## 📦 Tools & Technologies
+
+- **Python (JupyterLab via Anaconda)**
+- **Pandas**
+- **NumPy**
+- **Power BI** *(planned)*
+- **Matplotlib / Seaborn** *(optional for EDA visuals)*
+- **GitHub** *(version control & project management)*
+- **GitHub Projects (Kanban board)**
+- **SQL** *(planned)*
+- **Apache Airflow** *(planned stretch goal for ETL orchestration demo)*
+
+---
+
+## 🛠️ Skills Demonstrated
+
+| Skills Demonstrated                         | Skills Demonstrated                         |
+|:--------------------------------------------|:--------------------------------------------|
+| ETL process management                      | Troubleshooting file path errors            |
+| Data validation (raw file checks)           | DataOps practices for local workflows       |
+| Unzipping, organizing, and validating data  | Project management using GitHub Projects    |
+| Programming in Python                       | Financial data management                   |
+| Attention to detail in file structure       | Aviation-related data management            |
+| Data reconciliation checks (planned)        | Data cleaning and preprocessing (planned)   |
+| Data quality management (planned)           | SQL querying and analysis (planned)         |
+| Analytics and reporting (planned)           | Data visualization with Power BI (planned)  |
+| PMP-style project planning and check-ins    | Communication via README and documentation  |
+
+
 ## 📂 Project Structure
 
 ```
@@ -28,21 +57,6 @@ aviation-financial-etl-insights-viz/
 │
 └── README.md              # This document
 ```
-
-
----
-## 📦 Tools & Technologies
-
-- **Python (JupyterLab via Anaconda)**
-- **Pandas**
-- **NumPy**
-- **Power BI** *(planned)*
-- **Matplotlib / Seaborn** *(optional for EDA visuals)*
-- **GitHub** *(version control & project management)*
-- **GitHub Projects (Kanban board)**
-- **SQL** *(planned)*
-- **Apache Airflow** *(planned stretch goal for ETL orchestration demo)*
-
 
 ---
 
