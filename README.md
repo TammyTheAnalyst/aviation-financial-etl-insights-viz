@@ -1,5 +1,7 @@
 # Aviation & Financial ETL, Insights & Visualization Project ✈️📊
 
+---
+
 ## 📌 Project Overview
 This project demonstrates an end-to-end data workflow involving:
 - Extracting aviation and financial data
@@ -98,6 +100,8 @@ aviation-financial-etl-insights-viz/
 
 ### 📌 Project Board Progress
 ![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4645).png)
+
+
 
 ### 📌 Data Preview
 ![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4644).png)
