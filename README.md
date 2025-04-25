@@ -31,12 +31,18 @@ aviation-financial-etl-insights-viz/
 
 
 ---
+## 📦 Tools & Technologies
 
-## ⚙️ Tools & Technologies
-- Python (JupyterLab via Anaconda)
-- Pandas, NumPy
-- Power BI or Matplotlib for visualizations
-- GitHub for version control & project management
+- **Python (JupyterLab via Anaconda)**
+- **Pandas**
+- **NumPy**
+- **Power BI** *(planned)*
+- **Matplotlib / Seaborn** *(optional for EDA visuals)*
+- **GitHub** *(version control & project management)*
+- **GitHub Projects (Kanban board)**
+- **SQL** *(planned)*
+- **Apache Airflow** *(planned stretch goal for ETL orchestration demo)*
+
 
 ---
 
@@ -81,10 +87,9 @@ aviation-financial-etl-insights-viz/
 **Tammy The Analyst**  
 [GitHub Profile](https://github.com/YourUsername)
 
----
 
-## 📅 Project Timeline
-_(Optional section to note your project milestones or dates if you’d like)_
+
+ 
 
 ---
 
