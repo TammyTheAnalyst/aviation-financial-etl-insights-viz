@@ -1,6 +1,22 @@
 # Aviation & Financial ETL, Insights & Visualization Project ✈️📊
 
 ---
+## Data Source
+
+This project uses publicly available U.S. airline financial data provided by the **Bureau of Transportation Statistics (BTS)** through their TranStats platform.  
+The specific dataset used is:
+
+**T-100 Segment (Schedule P-6) — U.S. Carrier Operating Expense Data**
+
+## Why This Data Matters
+
+This data is crucial in the aviation industry for tracking carrier financial performance, analyzing trends in operating costs, and benchmarking expenses across different airlines.  
+
+In this project, we use it to demonstrate an **ETL pipeline and data analytics workflow**, moving raw financial data through Python, SQL, and Power BI for reporting and insight generation.
+
+Source: [BTS TranStats](https://www.transtats.bts.gov/)
+
+---
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end data workflow involving:
