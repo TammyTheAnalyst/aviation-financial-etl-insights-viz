@@ -25,6 +25,7 @@ This project demonstrates an end-to-end data workflow involving:
 
 ---
 
+
 ## 🛠️ Skills Demonstrated
 
 | Skills Demonstrated                      | Skills Demonstrated                       | Skills Demonstrated                         |
@@ -36,6 +37,7 @@ This project demonstrates an end-to-end data workflow involving:
 | Data quality management (planned)        | SQL querying and analysis (planned)        | Data visualization with Power BI (planned)  |
 | Analytics and reporting (planned)        | Data orchestration with Apache Airflow (planned) | Communication via README and documentation |
 | PMP-style project planning and check-ins | Quality control processes (planned)        | Data governance frameworks (planned)        |
+
 
 
 ## 📂 Project Structure
