@@ -4,9 +4,9 @@ _Visualizing operating expenses by U.S. airline carriers across 2024 financial q
 ---
 ## 📸 Reports Preview
 
-| Operating Expenses by Carrier | Top 5 Carriers by Quarter |
+| Airline Operating Expenses  by Year | Top 5 Airlines by Quarter |
 |:-----------------------------|:--------------------------|
-| ![chart1](images/chart1.png)  | ![chart2](images/chart2.png) |
+| ![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4660).png)  | ![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4662).png) |
 
 ---
 
