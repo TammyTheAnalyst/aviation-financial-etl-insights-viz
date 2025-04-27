@@ -106,27 +106,37 @@ aviation-financial-etl-insights-viz/
 
 ---
 
-## 📈 Project Workflow and Status
+## 📌 Project Workflow and Status
 
+| Task                                                                                     | Status       |
+|:-----------------------------------------------------------------------------------------|:--------------|
+| Set up GitHub repository and project Kanban board                                         | ✅ Done        |
+| Install Anaconda and JupyterLab                                                           | ✅ Done        |
+| Set up local environment for ETL pipeline development (Anaconda & JupyterLab)            | ✅ Done        |
+| Create folder structure: data/raw, data/processed, notebooks, scripts, outputs           | ✅ Done        |
+| Unzip, organize, and validate raw financial data for ETL processing                      | ✅ Done        |
+| Load raw CSV data into Jupyter Notebook                                                   | ✅ Done        |
+| Explore and clean raw financial data in Notebook                                          | ✅ Done        |
+| Troubleshoot file path errors and correct relative paths for data ingestion              | ✅ Done        |
+| Generate insights with Pandas and simple stats                                            | ✅ Done        |
+| Perform outlier detection in Python                                                       | ✅ Done        |
+| Check data types with `print(df.dtypes)`                                                  | ✅ Done        |
+| Describe dataset with `df.describe()`                                                    | ✅ Done        |
+| Save processed data to data/processed                                                     | ✅ Done        |
+| Write Python ETL script to clean and prep data                                            | ✅ Done        |
+| Design basic ETL pipeline steps                                                           | ✅ Done        |
+| Activate SQLite in JupyterLab                                                             | ✅ Done        |
+| Create SQLite database connection                                                         | ✅ Done        |
+| Create aviation_expenses table in SQLite                                                  | ✅ Done        |
+| Load data into SQLite from CSV                                                            | ✅ Done        |
+| Check for null values in SQLite                                                           | ✅ Done        |
+| Check for duplicate records in SQLite                                                     | ✅ Done        |
+| Connect SQLite to Power BI                                                                | ✅ Done        |
+| Build visualizations in Power BI                                                          | ✅ Done        |
+| Draft KPIs for financial insights                                                         | ✅ Done        |
+| Document process in README                                                                | 🛠️ In Progress |
+| Upload code, data, and selected screenshots                                               | 🛠️ In Progress |
 
-| Task                                                               | Status         |
-|--------------------------------------------------------------------|----------------|
-| Install Anaconda and set up JupyterLab                             | ✅ Done         |
-| Set up local environment for ETL pipeline development (Anaconda, JupyterLab) | ✅ Done         |
-| Troubleshoot file path errors and correct relative paths for data ingestion | ✅ Done         |
-| Set up GitHub Repo & Kanban Board                                  | ✅ Done         |
-| Create folder structure                                            | ✅ Done         |
-| Unzipped, organized, and validated raw financial data for ETL processing | ✅ Done         |
-| Load raw CSV data into Notebook                                    | ✅ Done         |
-| Write Python ETL script                                            | 🔜 To Do        |
-| Explore and clean raw financial data in notebook                   | 🔜 To Do        |
-| Design basic ETL pipeline steps                                    | 🔜 To Do        |
-| Save cleaned data to processed folder                              | 🔜 To Do        |
-| Draft KPIs for financial insights                                  | 🔜 To Do        |
-| Generate insights                                                  | 🔜 To Do        |
-| Visualize data with Power BI/Matplotlib                            | 🔜 To Do        |
-| Document everything in README                                      | 🔄 In Progress  |
-| Upload code, data, and screenshots                                 | 🔜 To Do        |
 
 
 
