@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✈️📊 Aviation Financial Insights End-to-End Project ✈️📊
+# ✈️ Aviation Financial Insights End-to-End Project ✈️
 
 _Visualizing operating expenses for U.S. airline carriers, including quarterly breakdowns for top performers in 2024._
 
