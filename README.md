@@ -70,15 +70,15 @@ This project demonstrates a complete, end-to-end data workflow, including:
 
 ## 🛠️ Skills Demonstrated
 
-| Skills Demonstrated                      | Skills Demonstrated                       | Skills Demonstrated                         |
-|:-----------------------------------------|:-------------------------------------------|:---------------------------------------------|
-| ETL process management                   | Data validation (raw file checks)          | Troubleshooting file path errors            |
-| DataOps practices for local workflows    | Unzipping, organizing, and validating data | Project management using GitHub Projects    |
-| Programming in Python                    | Financial data management                  | Aviation-related data management            |
-| Attention to detail in file structure    | Data reconciliation checks (planned)       | Data cleaning and preprocessing (planned)   |
-| Data quality management (planned)        | SQL querying and analysis (planned)        | Data visualization with Power BI (planned)  |
-| Analytics and reporting (planned)        | Data orchestration with Apache Airflow (planned) | Communication via README and documentation |
-| PMP-style project planning and check-ins | Quality control processes (planned)        | Data governance frameworks (planned)        |
+| Skills Demonstrated                      | Skills Demonstrated                        | Skills Demonstrated                         |
+|:-----------------------------------------|:--------------------------------------------|:---------------------------------------------|
+| ETL process management                   | Data validation (raw file checks)           | Troubleshooting file path errors            |
+| DataOps practices for local workflows    | Unzipping, organizing, and validating data  | Project management using GitHub Projects    |
+| Programming in Python                    | Financial data management                   | Aviation-related data management            |
+| Attention to detail in file structure    | Data reconciliation checks                  | Data cleaning and preprocessing             |
+| Data quality management                  | SQL querying and analysis                   | Data visualization with Power BI            |
+| Analytics and reporting                  | Communication via README and documentation  | PMP-style project planning and check-ins    |
+
 
 ---
 
