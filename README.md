@@ -1,47 +1,56 @@
-# Aviation & Financial ETL, Insights & Visualization Project ✈️📊
+# Aviation Financial Insights End-to-End Project ✈️📊
+_Visualizing operating expenses by U.S. airline carriers across 2024 financial quarters._
 
 ---
-## Data Source
+## 📸 Reports Preview
 
-This project uses publicly available U.S. airline financial data provided by the **Bureau of Transportation Statistics (BTS)** through their TranStats platform.  
-The specific dataset used is:
-
-**T-100 Segment (Schedule P-6) — U.S. Carrier Operating Expense Data**
-
-## Why This Data Matters
-
-This data is crucial in the aviation industry for tracking carrier financial performance, analyzing trends in operating costs, and benchmarking expenses across different airlines.  
-
-In this project, we use it to demonstrate an **ETL pipeline and data analytics workflow**, moving raw financial data through Python, SQL, and Power BI for reporting and insight generation.
-
-Source: [BTS TranStats](https://www.transtats.bts.gov/)
+| Operating Expenses by Carrier | Top 5 Carriers by Quarter |
+|:-----------------------------|:--------------------------|
+| ![chart1](images/chart1.png)  | ![chart2](images/chart2.png) |
 
 ---
+
+
+### 📝 Summary 
+
+This analysis was designed to practice essential **ETL process management, SQL querying, Python scripting, data validation, and Power BI reporting** skills using aviation financial data.  
+
+While the aviation and aerospace sector has always been a personal high-interest area for me, from passenger jets to military demonstration teams and small training aircraft,
+this project is equally intended to demonstrate transferable skills that apply across multiple industries.
+
+---
+
 
 ## 📌 Project Overview
-This project demonstrates an end-to-end data workflow involving:
+
+This project demonstrates a complete, end-to-end data workflow, including:
 - Extracting aviation and financial data
-- Transforming and cleaning the data using Python
-- Loading the clean data for analysis
-- Generating actionable insights
-- Creating visualizations using Power BI (or Matplotlib)
-- Managing workflow via GitHub Projects for clear task tracking
+- Transforming and cleaning data using Python and SQLite
+- Loading clean data for analysis
+- Generating actionable business insights
+- Creating clear, professional visualizations in Power BI
+- Managing tasks and workflow using GitHub Projects for transparent, organized progress tracking
+
 
 
 ---
 
 
-## 📦 Tools & Technologies
+## 📦 Tools & Technologies  
 
-- **Python (JupyterLab via Anaconda)**
-- **Pandas**
-- **NumPy**
-- **Power BI** *(planned)*
-- **Matplotlib / Seaborn** *(optional for EDA visuals)*
-- **GitHub** *(version control & project management)*
-- **GitHub Projects (Kanban board)**
-- **SQL** *(planned)*
-- **Apache Airflow** *(planned stretch goal for ETL orchestration demo)*
+- **Folder/Project Structure Development**
+- **SQL** *(data querying and extraction)*  
+- **Python (JupyterLab via Anaconda)**  
+- **Pandas** *(data manipulation and preparation)*  
+- **Power BI** *(data visualization and reporting)*  
+- **GitHub** *(version control & documentation)*  
+- **GitHub Projects (Kanban board for project management)*  
+- **ETL Process Management**  
+- **Data Validation and Cleansing**  
+- **Financial Data Visualization**  
+- **Data Analysis and Insights Reporting**  
+
+
 
 
 ---
@@ -93,7 +102,7 @@ aviation-financial-etl-insights-viz/
 |--------------------------------------------------------------------|----------------|
 | Install Anaconda and set up JupyterLab                             | ✅ Done         |
 | Set up local environment for ETL pipeline development (Anaconda, JupyterLab) | ✅ Done         |
-| Troubleshot file path errors and correct relative paths for data ingestion | ✅ Done         |
+| Troubleshoot file path errors and correct relative paths for data ingestion | ✅ Done         |
 | Set up GitHub Repo & Kanban Board                                  | ✅ Done         |
 | Create folder structure                                            | ✅ Done         |
 | Unzipped, organized, and validated raw financial data for ETL processing | ✅ Done         |
@@ -124,14 +133,35 @@ aviation-financial-etl-insights-viz/
 
 ---
 
+## Data Source
 
+This project uses publicly available U.S. airline financial data provided by the **Bureau of Transportation Statistics (BTS)** through their TranStats platform.  
+The specific dataset used is:
+
+**Dataset:**  
+**T-100 Segment (Schedule P-6) — U.S. Carrier Operating Expense Data**
+
+---
+
+
+## Why This Data Matters
+
+This data is crucial in the aviation industry for tracking carrier financial performance, analyzing trends in operating costs, and benchmarking expenses across different airlines.  
+
+In this project, it’s used to demonstrate an **ETL pipeline and data analytics workflow**, moving raw financial data through **Python, SQL, and Power BI** for reporting and insight generation.
+
+Source: [BTS TranStats](https://www.transtats.bts.gov/)
+
+
+---
 
 ## 📬 Contact
+
 **Tammy The Analyst**  
 [GitHub Profile](https://github.com/YourUsername)
 
 
 
- ---
+---
 
 
