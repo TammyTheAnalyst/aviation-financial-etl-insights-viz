@@ -141,9 +141,9 @@ aviation-financial-etl-insights-viz/
 
 ### 📝 Summary 
 
-This analysis was designed to practice essential **ETL process management, SQL querying, Python scripting, data validation, and Power BI reporting** skills using aviation financial data.  
+- This analysis was designed to practice essential **ETL process management, SQL querying, Python scripting, data validation, and Power BI reporting** skills using aviation financial data.  
 
-While the aviation and aerospace sector has always been a personal high-interest area for me, from passenger jets to military demonstration teams and small training aircraft,
+- While the aviation and aerospace sector has always been a personal high-interest area for me, from passenger jets to military demonstration teams and small training aircraft,
 this project is equally intended to demonstrate transferable skills that apply across multiple industries.
 
 ---
@@ -151,10 +151,11 @@ this project is equally intended to demonstrate transferable skills that apply a
 
 ## Data Source
 
-This project uses publicly available U.S. airline financial data provided by the **Bureau of Transportation Statistics (BTS)** through their TranStats platform.  
+- This project uses publicly available U.S. airline financial data provided by the **Bureau of Transportation Statistics (BTS)** through their TranStats platform.  
 The specific dataset used is:
 
-**Dataset:**  
+- **Dataset:**
+   
 **T-100 Segment (Schedule P-6) — U.S. Carrier Operating Expense Data**
 
 ---
@@ -162,11 +163,11 @@ The specific dataset used is:
 
 ## Why This Data Matters
 
-This data is crucial in the aviation industry for tracking carrier financial performance, analyzing trends in operating costs, and benchmarking expenses across different airlines.  
+- This data is crucial in the aviation industry for tracking carrier financial performance, analyzing trends in operating costs, and benchmarking expenses across different airlines.  
 
-In this project, it’s used to demonstrate an **ETL pipeline and data analytics workflow**, moving raw financial data through **Python, SQL, and Power BI** for reporting and insight generation.
+- In this project, it’s used to demonstrate an **ETL pipeline and data analytics workflow**, moving raw financial data through **Python, SQL, and Power BI** for reporting and insight generation.
 
-Source: [BTS TranStats](https://www.transtats.bts.gov/)
+- Source: [BTS TranStats](https://www.transtats.bts.gov/)
 
 
 ---
