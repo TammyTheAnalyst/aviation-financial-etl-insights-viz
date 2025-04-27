@@ -1,6 +1,6 @@
 <div align="center">
 
-#  ✈️📊 Aviation Financial Insights End-to-End Project ✈️📊
+#  ✈️📊 Aviation Financial Insights End-to-End Project 
 
 </div>
 
