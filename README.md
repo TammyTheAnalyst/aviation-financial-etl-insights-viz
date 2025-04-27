@@ -23,22 +23,13 @@ _Visualizing operating expenses by U.S. airline carriers across 2024 financial q
 **Delta Air Lines** consistently maintained the highest expenses in Q1 and Q2. In Q3, **Federal Express Corporation’s** operating expenses surged ahead — likely reflecting increased demand for cargo and logistics services during the holiday season. **Southwest Airlines** consistently reported the lowest operating expenses across all quarters analyzed.
 
 
----  
-
-
-### 📝 Summary 
-
-This analysis was designed to practice essential **ETL process management, SQL querying, Python scripting, data validation, and Power BI reporting** skills using aviation financial data.  
-
-While the aviation and aerospace sector has always been a personal high-interest area for me, from passenger jets to military demonstration teams and small training aircraft,
-this project is equally intended to demonstrate transferable skills that apply across multiple industries.
-
 ---
 
 
 ## 📌 Project Overview
 
 This project demonstrates a complete, end-to-end data workflow, including:
+
 - Extracting aviation and financial data
 - Transforming and cleaning data using Python and SQLite
 - Loading clean data for analysis
@@ -109,9 +100,8 @@ aviation-financial-etl-insights-viz/
 
 ---
 
-## 📈 Project Workflow
+## 📈 Project Workflow and Status
 
-### 📊 Project Status
 
 | Task                                                               | Status         |
 |--------------------------------------------------------------------|----------------|
@@ -148,6 +138,16 @@ aviation-financial-etl-insights-viz/
 ![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4644).png)
 
 ---
+
+### 📝 Summary 
+
+This analysis was designed to practice essential **ETL process management, SQL querying, Python scripting, data validation, and Power BI reporting** skills using aviation financial data.  
+
+While the aviation and aerospace sector has always been a personal high-interest area for me, from passenger jets to military demonstration teams and small training aircraft,
+this project is equally intended to demonstrate transferable skills that apply across multiple industries.
+
+---
+
 
 ## Data Source
 
