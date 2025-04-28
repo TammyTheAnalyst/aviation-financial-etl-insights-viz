@@ -41,9 +41,10 @@ _Visualizing operating expenses for U.S. airline carriers, including quarterly b
 - This clustered column chart focuses on the **top five airlines by total operating expenses**, breaking down their costs by financial quarter.
 **Delta Air Lines** consistently maintained the highest expenses in Q1 and Q2. In Q3, **Federal Express Corporation’s** operating expenses surged ahead — likely reflecting increased demand for cargo and logistics services during the holiday season. **Southwest Airlines** consistently reported the lowest operating expenses across all quarters analyzed.
 
-📊 **Report 3: Quarterly Operating Expenses Trend for Top 5 Airlines**  
+📊 **Report 3: Quarterly Expense Trends for Top 5 Airlines**  
 
-- This visual tracks quarterly operating expenses for the top five U.S. airlines. Delta Air Lines consistently led expenses in the first half of the year, while Federal Express surged ahead in Q3 — likely reflecting increased logistics demand. Southwest Airlines maintained the lowest operating costs throughout the year.
+- This visual highlights how operating expenses for the top five U.S. airlines shifted across financial quarters. While Delta Air Lines maintained the highest costs early in the year, Federal Express experienced a sharp increase in Q3, reflecting seasonal logistics demand. The chart also reveals stable, lower expenses for Southwest Airlines throughout the year.
+
 
 ---
 
