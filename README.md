@@ -211,8 +211,8 @@ The specific dataset used is:
 
 ## 📬 Contact
 
-**Tammy The Analyst**  
-[GitHub Profile](https://github.com/YourUsername)
+LinkedIn 👉 [](https://www.linkedin.com/in/tammyjthomas/)
+
 
 
 
