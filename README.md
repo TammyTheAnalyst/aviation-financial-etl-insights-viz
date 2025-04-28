@@ -30,7 +30,7 @@ _Visualizing operating expenses for U.S. airline carriers, including quarterly b
 - This visual highlights the **total operating expenses for each airline** within the dataset.
 **Delta Air Lines** reported the highest expenses, followed by **Federal Express Corporation**, **American Airlines**, and **United Airlines**. **Southwest Airlines** and **JetBlue Airways** recorded comparatively lower operating costs. This high-level overview provides a quick snapshot of operational cost distribution across major U.S. carriers.
 
-📈 **Report 2: Top 5 Airlines by Quarter** 
+📊 **Report 2: Top 5 Airlines by Quarter** 
 
 - This clustered column chart focuses on the **top five airlines by total operating expenses**, breaking down their costs by financial quarter.
 **Delta Air Lines** consistently maintained the highest expenses in Q1 and Q2. In Q3, **Federal Express Corporation’s** operating expenses surged ahead — likely reflecting increased demand for cargo and logistics services during the holiday season. **Southwest Airlines** consistently reported the lowest operating expenses across all quarters analyzed.
