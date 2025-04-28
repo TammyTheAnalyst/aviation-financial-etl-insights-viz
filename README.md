@@ -150,6 +150,7 @@ aviation-financial-etl-insights-viz/
 | Check for duplicate records in SQLite                                                     | ✅ Done        |
 | Connect SQLite to Power BI                                                                | ✅ Done        |
 | Build visualizations in Power BI                                                          | ✅ Done        |
+|  Histogram with Matplotlib                                                                | ✅ Done        |
 | Draft KPIs for financial insights                                                         | ✅ Done        |
 | Document process in README                                                                | 🛠️ In Progress |
 | Upload code, data, and selected screenshots                                               | 🛠️ In Progress |
@@ -173,6 +174,22 @@ aviation-financial-etl-insights-viz/
 
 ### 📌 Data Preview
 ![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4644).png)
+
+![Folder Development](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4641).png)
+
+![Python Prep Clean Validate Data](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4648).png)
+
+![Python Prep Clean Validate Data](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4649).png)
+
+![Python Prep Clean Validate Data](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4650).png)
+
+![Histogram Matplotlib](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4651).png)
+
+![Import SQLite](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4652).png)
+
+![Clean Aviation Data in Power BI](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4657).png)
+
+
 
 ---
 
