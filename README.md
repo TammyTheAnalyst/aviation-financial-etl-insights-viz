@@ -10,9 +10,13 @@ _Visualizing operating expenses for U.S. airline carriers, including quarterly b
 ---
 ## 📸 Reports Preview
 
-| Airline Operating Expenses by Year | Top 5 Airlines by Quarter |
+| Airline Operating Expenses by Year | Top 5 Airlines by Quarter |  
+![Report 3](assets/report3.png)
+
 |:-----------------------------|:--------------------------|
 | ![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4660).png)  | ![](https://github.com/TammyTheAnalyst/aviation-financial-etl-insights-viz/blob/main/Screenshot%20(4662).png) |
+## 📊 Report 3: Quarterly Operating Expenses Trend for Top 5 Airlines  
+![Report 3](assets/report3.png)
 
 ---
 
